@@ -70,7 +70,9 @@ From a folder next to .md file:
 
 
 ### Line Breaks:
-To create a line break, end a line with two or more spaces, and then type return.
+
+To create a line break, end a line with two or more spaces.  
+Next line.
 
 ## Extended Syntax:
 
